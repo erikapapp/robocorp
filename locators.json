@@ -1,0 +1,15 @@
+{
+    "Address": {
+        "screenshot": ".images\\address-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "address"
+    },
+    "Legs": {
+        "confidence": 80.0,
+        "path": ".images\\legs-path.png",
+        "source": null,
+        "type": "image"
+    }
+}
